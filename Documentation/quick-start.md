@@ -1,4 +1,4 @@
-hark.readthedocs# Quick Start
+# Quick Start
 
 ## Installing HARK
 
